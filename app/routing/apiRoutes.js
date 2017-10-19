@@ -13,7 +13,7 @@ module.exports = function(app) {
 		var userInput = req.body;
 
 		var userResponses = userInput.scores;
-h
+
 		var matchName = '';
 		var matchImage = '';
 		var totalDifference = 10000; 
